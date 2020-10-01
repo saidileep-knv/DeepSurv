@@ -22,7 +22,6 @@ setup(name='deepsurv',
     packages=['deepsurv'],
     install_requires=[
         'theano>=0.8.2',
-        'lasagne==0.2.dev1',
         'lifelines>=0.9.2',
         'tensorboard_logger>=0.0.3'
     ],
